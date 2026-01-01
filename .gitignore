@@ -2,6 +2,8 @@
 .DS_Store
 *.log
 
+
+
 # Terraform files
 *.tfvars
 .terraform
